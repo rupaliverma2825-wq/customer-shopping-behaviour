@@ -14,11 +14,13 @@
 
   ⚪ 📊 Power BI – Used to create interactive dashboards, visualizations, and business reports.
   
-  ⚪ 💻DAX (Data Analysis Expressions) – Used in Power BI to create calculated columns, measures, and perform advanced data analysis.
+  ⚪ 💻DAX (Data Analysis Expressions) – Used in Power BI to create calculated columns, measures, 
+                                          and perform advanced data analysis.
  
   ⚪ 📝PowerPoint (PPT) – Used to present insights, findings, and recommendations to stakeholders.
 
-  ⚪ 📋Project Report – A detailed document summarizing methodology, analysis, findings, and business recommendations.
+  ⚪ 📋Project Report – A detailed document summarizing methodology, analysis, findings, and business 
+                         recommendations.
 
 3) Features / Highlight-
 
@@ -36,12 +38,11 @@
 
  Key Visuals in the Dashboard-
  
-    🔵KPI Cards: Display Total Categories, Total Customers, Total Sales, and Average Review Rating to provide a quick overview of overall business performance.
-   
+    🔵KPI Cards: Display Total Categories, Total Customers, Total Sales, and Average Review Rating to provide a
+                 quick overview of overall business performance.
    
     🔵Button Slicers: Used to filter data based on Item Purchased, allowing users to analyze specific product behavior.
-
- Charts & Visualizations-
+                       Charts & Visualizations-
         
          📈Line Chart – Item Purchased vs. Total Sales: Used to understand purchasing trends and how sales fluctuate across different items.
          
