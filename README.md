@@ -80,7 +80,7 @@
 
 Dashboard Snapshot-
 
-   ![DASHBOARD PREVIEW](
+   ![DASHBOARD PREVIEW](https://github.com/rupaliverma2825-wq/customer-shopping-behaviour/blob/main/DASHBOARD%20SNAPSHOT.png)
 
 
 
