@@ -39,24 +39,24 @@
  Key Visuals in the Dashboard-
  
     🔵KPI Cards: Display Total Categories, Total Customers, Total Sales, and Average Review Rating to provide a
-                 quick overview of overall business performance.
+      quick overview of overall business performance.
    
     🔵Button Slicers: Used to filter data based on Item Purchased, allowing users to analyze specific product behavior.
-                       Charts & Visualizations-
+      Charts & Visualizations-
         
-         📈Line Chart – Item Purchased vs. Total Sales: Used to understand purchasing trends and how sales fluctuate across different items.
+    📈Line Chart – Item Purchased vs. Total Sales: Used to understand purchasing trends and how sales fluctuate across different items.
          
-         🧠Stacked Column Chart – Customer Satisfaction Status: Helps evaluate customer feedback levels and overall satisfaction performance.
+    🧠Stacked Column Chart – Customer Satisfaction Status: Helps evaluate customer feedback levels and overall satisfaction performance.
          
-         🗂️Clustered Bar Chart – Sales by Item Size: Used to identify which product sizes generate higher sales, supporting inventory and production decisions.
+    🗂️Clustered Bar Chart – Sales by Item Size: Used to identify which product sizes generate higher sales, supporting inventory and production decisions.
          
-         🗺️ Map Chart – Sales by Location: Visualizes geographic sales distribution to identify strong and weak regional markets.
+    🗺️ Map Chart – Sales by Location: Visualizes geographic sales distribution to identify strong and weak regional markets.
          
-         🍩Donut Chart – Gender Distribution: Shows the percentage of male vs. female buyers, helping tailor marketing strategies.
+    🍩Donut Chart – Gender Distribution: Shows the percentage of male vs. female buyers, helping tailor marketing strategies.
          
-         🗂️Stacked Column Chart – Sales by Category: Identifies leading product categories with the highest sales contributions.
+    🗂️Stacked Column Chart – Sales by Category: Identifies leading product categories with the highest sales contributions.
          
-         📊Stacked Bar Chart – Sales by Age Group: Helps understand which age group drives maximum revenue and supports targeted promotion.
+    📊Stacked Bar Chart – Sales by Age Group: Helps understand which age group drives maximum revenue and supports targeted promotion.
 
 ⚪ Business Insights-
 
