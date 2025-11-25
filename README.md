@@ -36,9 +36,10 @@
 
  Key Visuals in the Dashboard-
  
-   KPI Cards: Display Total Categories, Total Customers, Total Sales, and Average Review Rating to provide a quick overview of overall business performance.
+    🔵KPI Cards: Display Total Categories, Total Customers, Total Sales, and Average Review Rating to provide a quick overview of overall business performance.
    
-   Button Slicers: Used to filter data based on Item Purchased, allowing users to analyze specific product behavior.
+   
+    🔵Button Slicers: Used to filter data based on Item Purchased, allowing users to analyze specific product behavior.
 
  Charts & Visualizations-
          📈Line Chart – Item Purchased vs. Total Sales: Used to understand purchasing trends and how sales fluctuate across different items.
@@ -58,13 +59,21 @@
 ⚪ Business Insights-
 
    🔵The business offers 4 main product categories—Clothing, Accessories, Footwear, and Outerwear—indicating a focused product range.
+   
    🔵Total sales amount to USD 233K, generated from 4,000 customers, showing strong overall performance.
+   
    🔵 The average review rating of 3.5 indicates moderate customer satisfaction, with scope for service and product quality improvement.
+   
    🔵 Blouse is the highest-selling item, contributing $10,410,highlighting strong demand in women's apparel.
+   
    🔵 Customer satisfaction analysis shows 2,410 satisfied customers and 1,490 dissatisfied, indicating that 62% of customers are happy but improvements are still        needed.
+   
    🔵 Medium size products lead sales with USD 105,167, making it the most preferred size among buyers.
+   
    🔵 The Clothing category is the top performer, generating USD 104,264, suggesting high consumer interest in apparel.
+   
    🔵 Gender distribution shows 67.74% male customers and 32.26% female customers, indicating a male-dominated customer base.
+   
    🔵 Age group segmentation reveals that the 60+ age group has the highest number of customers, representing the most active buying segment.
 
 
