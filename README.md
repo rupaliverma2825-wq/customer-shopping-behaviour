@@ -78,7 +78,9 @@
       🔵 Age group segmentation reveals that the 60+ age group has the highest number of customers, representing the most active buying segment.
 
 
+Dashboard Snapshot-
 
+   ![DASHBOARD PREVIEW](
 
 
 
